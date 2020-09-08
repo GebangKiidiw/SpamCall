@@ -10,3 +10,5 @@ Spam Call Unlimited
 <li> Mode Banyak (y/n) ===> UNTUK Spam Lebih Dari 1
 <li> JumlahSpam ===> Masukan Jumlah yang ingin dispam
 <li> [Succes]
+
+http://abangjoss.com
